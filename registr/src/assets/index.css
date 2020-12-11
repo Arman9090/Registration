@@ -1,0 +1,128 @@
+.app{
+  color: #333;
+  background-color: #f3eeee;
+}
+
+.box{
+width: 100%;
+display: flex;
+justify-content: space-around;
+}
+
+p{
+  background-color: #fff;
+}
+
+.regClass{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+
+}
+.registr{
+    width: 30%;
+    padding: 20px;
+    margin-right: 10px;
+   background-color:#fff;
+   margin: 20px;
+}
+.regEdit{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  
+}
+.registrEdir{
+  width: 30%;
+  padding: 20px;
+  margin-right: 10px;
+ background-color:#fff;
+ margin: 20px;
+}
+.text{
+  width: 315px;
+  background-color: #fff;
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.textbtn{
+  width: 315px;
+  margin: auto;
+  font-size: 20px;
+}
+
+
+
+.tableDiv {
+  width: 47%;
+  font-size: 22px;
+  height: 480px;
+  margin: auto 0;
+  background-color:#fff;
+  
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+
+  
+}
+
+.tableDiv a{
+  background-color:#fff;
+  color: #333;
+  border: none;
+  text-decoration: none;
+}
+  .classThead th,  td{
+  border: solid 1px #333;
+  width: 150px;
+  text-align: center;
+  background-color:#fff;
+  color: #333;
+
+  
+  }
+
+
+  
+  .showClass{
+    width: 50%;
+    margin: 30px auto;
+    background: #fff;
+    padding: 20px;
+    font-weight: normal;
+  }
+
+  .showClass h6{
+    font-size: 20px; 
+    color: #17A2B8;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #17a3b88a;
+    padding-bottom: 10px;
+    background-color:#fff;
+
+  }
+
+  .showList{
+    display: flex;
+    flex-direction: column;
+    background-color:#fff;
+
+  }
+.showItem{
+  font-size: 18px;
+  display: inline-block;
+  text-transform: uppercase;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,.125);
+}
+
+.showItem b{
+  color:#17A2B8;
+  background-color:#fff;
+
+}
